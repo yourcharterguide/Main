@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.questionnaire {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+  line-height: 1.5;
+}
+
+.question {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  padding: 0.5rem 1rem;
+}
+
+.result {
+  margin-top: 1rem;
+  font-weight: bold;
+}
