@@ -1,4 +1,7 @@
-import React from "react";
+import React from 'react';
+import Questionnaire from './components/Questionnaire.jsx';
+
 export default function App() {
-  return <div>Hello WhatCharter – dein Projekt wurde geladen.</div>;
+  return <Questionnaire />;
 }
+
